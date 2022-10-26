@@ -1,6 +1,6 @@
 asgiref==3.2.3
 Django==3.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 et-xmlfile==1.0.1
 jdcal==1.4.1
 openpyxl==3.0.2
